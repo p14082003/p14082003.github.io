@@ -7,4 +7,8 @@ p {
       -ms-flex-pack: center;
           justify-content: center;
 }
+
+body {
+  background: red;
+}
 /*# sourceMappingURL=style.css.map */

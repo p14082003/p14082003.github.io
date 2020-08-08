@@ -1,7 +1,6 @@
 $pcolor : lightblue;
+@import "./p";
 
-p {
-    background: $pcolor;
-    display: flex;
-    justify-content: center;
+body {
+    background: red;
 }
